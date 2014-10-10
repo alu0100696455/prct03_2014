@@ -1,0 +1,3 @@
+21. Con el intérprete de Ruby muestra la salida del programa al igual que con
+el interpréte interactivo de Ruby, la diferencia es que este último muestra
+cada línea del fichero seguido de su salida.
